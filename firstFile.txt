@@ -3,3 +3,4 @@ This is the initial contents
 of the first file that
 comprises the project.
 THIS IS NEW TEXT
+THIS IS EVEN MORE NEW TEXT
